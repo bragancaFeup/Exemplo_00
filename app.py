@@ -8,6 +8,8 @@ app = Flask(__name__)
 Person.read(filename)
 prev_option = ""
 
+# esta linha foi adiconada para alterar o ficheiro e testar o Git
+
 @app.route("/", methods=["post","get"])
 def index():
     global prev_option
