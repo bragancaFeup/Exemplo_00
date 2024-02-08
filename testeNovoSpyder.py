@@ -6,3 +6,7 @@ Created on Wed Feb  7 19:20:23 2024
 """
 
 Print("novo ficheiro Splyder")
+
+# Alteração local
+
+print("alteração no spyder")
