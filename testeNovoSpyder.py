@@ -10,3 +10,8 @@ Print("novo ficheiro Splyder")
 # Alteração local
 
 print("alteração no spyder")
+
+# Alteração remota
+print("remoto")
+
+
